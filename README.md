@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript, node.js , TypeScript , deno, Express.js.As well i know basic HTML, CSS , jQuery , React.js
 -⌨🖱 I’m looking for a job. I'm very intrested in new team and workplace
 -🔔I have no work experience. Self-taught. 
--📙📚Now I'm studying at BSUIR.
 - 📫 How to reach me: https://t.me/alxkovnoir
 
 <!---
