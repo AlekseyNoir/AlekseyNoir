@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlekseyNoir
 - 👀 I’m interested in work and in the development of my skills
-- 🌱 I’m currently learning JavaScript ES6+, Node.js , TypeScript , Express.js,React.js.As well i know basic HTML, CSS , JavaScript Native. Intrested in Dart(Flutter) and C++.
+- 🌱 I’m currently learning JavaScript ES6+, Node.js , TypeScript , Express.js,React.js.As well i know basic HTML, CSS , JavaScript. Intrested in Dart(Flutter) and C++.
 -⌨🖱 I’m looking for a job. I'm very intrested in new team and workplace
 -🔔I have no work experience. Self-taught. 
 - 📫 How to reach me: https://t.me/alxkovnoir
